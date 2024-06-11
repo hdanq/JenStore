@@ -1,0 +1,26 @@
+[
+  {
+    "img": "./src/images/items/holiday-3.png",
+    "name": "Bó hoa tulip đỏ",
+    "price": 432000,
+    "rate": 5
+  },
+  {
+    "img": "./src/images/items/wedding-4.png",
+    "name": "Bó hoa hồng",
+    "price": 213000,
+    "rate": 5
+  },
+  {
+    "img": "./src/images/items/wedding-2.png",
+    "name": "Bó hoa oải hương",
+    "price": 200000,
+    "rate": 4
+  },
+  {
+    "img": "./src/images/items/wedding-1.png",
+    "name": "Hoa hồng",
+    "price": 310,
+    "rate": 3
+  }
+]

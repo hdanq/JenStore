@@ -1,0 +1,23 @@
+body {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  color: #222;
+}
+h1,
+h2,
+h3 {
+  font-family: "Abril Fatface", serif;
+}
+
+.dots {
+  background-color: #fff;
+}
+
+.dots__dot {
+  width: 32px;
+  height: 2px;
+}
+
+.dots__dot--active {
+  background-color: #333;
+}
