@@ -1,12 +1,12 @@
 import React from "react";
 import StarIcon from "./icon/StarIcon";
-import CartIcon from "./icon/cartIcon";
+import CartIcon from "./icon/CartIcon";
 
 const ProductItem = (props, { key }) => {
   return (
     <li
       key={key}
-      className="group relative bg-[#fff] leading-loose opacity-80 hover:opacity-100 hover:shadow-xl"
+      className="group relative z-50 bg-[#fff] leading-loose opacity-90 hover:opacity-100 hover:shadow-xl"
     >
       <a href="#">
         <img src={props.img} alt="" />

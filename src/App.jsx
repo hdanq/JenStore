@@ -1,4 +1,4 @@
-import Footer from "./layout/footer/footer";
+import Footer from "./layout/footer/Footer";
 import Header from "./layout/header/Header";
 import NavBar from "./layout/header/NavBar";
 import SectionAboutUs from "./layout/sections/SectionAboutUs";
