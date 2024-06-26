@@ -42,7 +42,7 @@ const SectionTimeHeader = () => {
           </div>
         </div>
       </div>
-      <div className="absolute bottom-0 left-0 right-0 top-0 -z-10 bg-[url('./src/images/counter.png')] bg-cover bg-center"></div>
+      <div className="absolute bottom-0 left-0 right-0 top-0 -z-10 bg-[url('https://slimweb.vn/site/cuahangbanhoa/images/17245/counter.png')] bg-cover bg-center"></div>
     </section>
   );
 };

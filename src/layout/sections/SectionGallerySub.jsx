@@ -2,22 +2,28 @@ import React from "react";
 
 const gallery = [
   {
-    image: "./src/images/gallery/imgalinkainsta1.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta1.jpg",
   },
   {
-    image: "./src/images/gallery/imgalinkainsta2.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta2.jpg",
   },
   {
-    image: "./src/images/gallery/imgalinkainsta3.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta3.jpg",
   },
   {
-    image: "./src/images/gallery/imgalinkainsta5.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta5.jpg",
   },
   {
-    image: "./src/images/gallery/imgalinkainsta6.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta6.jpg",
   },
   {
-    image: "./src/images/gallery/imgalinkainsta2.jpg",
+    image:
+      "https://slimweb.vn/site/cuahangbanhoa/images/user/17245/imgalinkainsta2.jpg",
   },
 ];
 

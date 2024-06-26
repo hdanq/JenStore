@@ -8,7 +8,10 @@ const SectionProductOutstanding = () => {
     <section className="pb-10 text-center">
       <div className="m-auto grid grid-cols-2 place-items-center gap-10 px-10 text-center max-md:grid-cols-1 xl:w-[60%]">
         <div className="relative">
-          <img src="./src/images/collection.png" alt="" />
+          <img
+            src="https://slimweb.vn/site/cuahangbanhoa/images/user/17245/collection.png"
+            alt=""
+          />
           <div className="absolute right-[30%] top-[30%]">
             <h4 className="text-[20px] font-normal uppercase">
               Teachers' Days

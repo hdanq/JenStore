@@ -21,3 +21,8 @@ h3 {
 .dots__dot--active {
   background-color: #333;
 }
+
+a {
+  color: #222;
+  cursor: pointer;
+}

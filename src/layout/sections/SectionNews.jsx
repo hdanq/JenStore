@@ -2,17 +2,17 @@ import React from "react";
 
 const news = [
   {
-    img: "./src/images/news/1.png",
+    img: "./images/news/1.png",
     days: "25/11/2020",
     description: "Cách cắm hoa đẹp",
   },
   {
-    img: "./src/images/news/2.png",
+    img: "./images/news/2.png",
     days: "03/10/2020",
     description: "Hoa tươi trao yêu thương - tình yêu từ sự thấu hiểu",
   },
   {
-    img: "./src/images/news/3.png",
+    img: "./images/news/3.png",
     days: "28/12/2023",
     description: "Chúc mừng 8/3: Tôn vinh người phụ nữ yêu thương",
   },

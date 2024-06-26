@@ -1,24 +1,24 @@
 [
   {
-    "img": "./src/images/items/holiday-3.png",
+    "img": "https://slimweb.vn/sites/default/files/holiday-3.jpg",
     "name": "Bó hoa tulip đỏ",
     "price": 432000,
     "rate": 5
   },
   {
-    "img": "./src/images/items/wedding-4.png",
+    "img": "https://slimweb.vn/sites/default/files/wedding-4.jpg",
     "name": "Bó hoa hồng",
     "price": 213000,
     "rate": 5
   },
   {
-    "img": "./src/images/items/wedding-2.png",
+    "img": "https://slimweb.vn/sites/default/files/wedding-2.jpg",
     "name": "Bó hoa oải hương",
     "price": 200000,
     "rate": 4
   },
   {
-    "img": "./src/images/items/wedding-1.png",
+    "img": "https://slimweb.vn/sites/default/files/wedding-1.jpg",
     "name": "Hoa hồng",
     "price": 310,
     "rate": 3

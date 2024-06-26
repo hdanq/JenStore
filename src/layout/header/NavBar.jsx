@@ -25,7 +25,7 @@ const NavBar = () => {
       <div className="m-3 items-center justify-around lg:flex">
         <img
           className="mb-10 lg:mb-0"
-          src="./src/images/logoahoa.png"
+          src="	https://slimweb.vn/site/cuahangbanhoa/images/user/17245/logoahoa.png"
           alt="logo"
         />
         <ul className="gap-5 lg:flex">

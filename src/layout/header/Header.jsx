@@ -21,7 +21,7 @@ const HeaderMain = (props) => {
     <>
       <h1
         className={
-          "bg-[url('./src/images/imgbanner.jpg')] bg-clip-text bg-no-repeat text-[70px] font-thin leading-tight text-transparent xl:text-[100px] " +
+          "bg-[url('https://slimweb.vn/site/cuahangbanhoa/images/17245/bgatitle.jpg')] bg-clip-text bg-no-repeat text-[70px] font-thin leading-tight text-transparent xl:text-[100px] " +
           props.class
         }
       >
@@ -61,7 +61,7 @@ const Header = () => {
     <header>
       <div className="relative h-[448px] w-full overflow-hidden md:h-[592px] lg:h-[498px] xl:h-[670px]">
         <div
-          className="slider absolute h-full w-full bg-[url('./src/images/banner1.png')] bg-cover bg-center delay-200 duration-500 ease-linear"
+          className="slider absolute h-full w-full bg-[url('https://slimweb.vn/site/cuahangbanhoa/images/user/17245/homev3aslider2.jpg')] bg-cover bg-center delay-200 duration-500 ease-linear"
           style={{ transform: "translateX(0%)" }}
         >
           <div className="m-auto grid grid-cols-6 py-16 md:py-24 lg:max-w-[960px] lg:py-40 xl:max-w-[1200px]">
@@ -73,7 +73,7 @@ const Header = () => {
           </div>
         </div>
         <div
-          className="slider absolute h-full w-full bg-[url('./src/images/banner2.png')] bg-cover bg-center delay-200 duration-500 ease-linear"
+          className="slider absolute h-full w-full bg-[url('https://slimweb.vn/site/cuahangbanhoa/images/user/17245/homev3aslider1.jpg')] bg-cover bg-center delay-200 duration-500 ease-linear"
           style={{ transform: "translateX(100%)" }}
         >
           <div className="m-auto grid grid-cols-6 py-16 sm:max-w-[540px] md:py-24 lg:max-w-[720px] lg:py-40 xl:max-w-[1200px]">

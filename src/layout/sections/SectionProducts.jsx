@@ -5,7 +5,7 @@ import productData from "../../productsData.json";
 const SectionProducts = () => {
   return (
     <section id="products" className="relative pb-40 pt-24">
-      <div className="absolute bottom-0 left-0 right-0 top-0 z-[-2] bg-[url('./src/images/wedding.png')] bg-cover bg-center"></div>
+      <div className="absolute bottom-0 left-0 right-0 top-0 z-[-2]	bg-[url('https://slimweb.vn/site/cuahangbanhoa/images/17245/wedding.png')] bg-cover bg-center"></div>
 
       <div className="m-auto text-center md:w-[80%] lg:w-[60%]">
         <h2 className="mb-12 text-[50px] font-light">Bó hoa đẹp</h2>

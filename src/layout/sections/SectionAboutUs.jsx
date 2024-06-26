@@ -3,19 +3,19 @@ import React, { useEffect, useState } from "react";
 
 const feedback = [
   {
-    avatar: "./src/images/avatarafeedback.png",
+    avatar: "./images/avatarafeedback.png",
     comment: "Ship giao hàng rất nhanh",
     name: "Nguyễn Hằng",
     job: "Giáo viên",
   },
   {
-    avatar: "./src/images/avatarafeedback.png",
+    avatar: "./images/avatarafeedback.png",
     comment: "Hoa rấ đẹp và tươi",
     name: "Ngọc Ánh",
     job: "Đầu bếp",
   },
   {
-    avatar: "./src/images/avatarafeedback.png",
+    avatar: "./images/avatarafeedback.png",
     comment: "Dịch vụ tốt, có dịp mình sẽ quay lại",
     name: "Minh Anh",
     job: "NV văn phòng",

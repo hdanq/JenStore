@@ -9,7 +9,7 @@ const SectionGallery = () => {
           <a href="#">
             <img
               className="h-full w-full"
-              src="./src/images/homev3ashowaimage1.png"
+              src="	https://slimweb.vn/site/cuahangbanhoa/images/user/17245/homev3ashowaimage1.jpg"
               alt=""
             />
           </a>
@@ -29,7 +29,7 @@ const SectionGallery = () => {
           <a href="#">
             <img
               className="h-full w-full"
-              src="./src/images/homev3ashowaimage3.png"
+              src="https://slimweb.vn/site/cuahangbanhoa/images/user/17245/homev3ashowaimage3.jpg"
               alt=""
             />
           </a>
