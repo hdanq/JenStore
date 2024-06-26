@@ -12,7 +12,7 @@ const ProductItem = (props, { key }) => {
         <img src={props.img} alt="" />
       </a>
       <div className="py-4">
-        <p>{props.name}</p>
+        <h4>{props.name}</h4>
         <div className="flex justify-center">
           {[1, 2, 3, 4, 5].map((rate) => (
             <span key={rate}>
