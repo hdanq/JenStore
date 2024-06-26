@@ -45,7 +45,6 @@ const Header = () => {
   useEffect(() => {
     const interval = setInterval(() => {
       setSlide((prevSlide) => (prevSlide === 0 ? 1 : 0));
-      console.log(slide);
       gotoSlide(slide);
     }, 5000); // Thay đổi slide mỗi 5 giây
 
@@ -54,7 +53,6 @@ const Header = () => {
 
   const handleClick = () => {
     setSlide((pre) => (pre === 0 ? 1 : 0));
-    console.log(slide);
     gotoSlide(slide);
   };
   return (
